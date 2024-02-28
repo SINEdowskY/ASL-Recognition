@@ -67,7 +67,7 @@ American Sign Language (ASL) is a complete, complex language that employs signs 
 1. **Run the Application**: Execute the main script to start the ASL recognition application.
 
     ```bash
-    python test.py
+    python front.py
     ```
 
 2. **Gesture Recognition**: Position your hand in front of the camera and perform ASL gestures. The application will attempt to recognize and display the corresponding ASL alphabet or word.
